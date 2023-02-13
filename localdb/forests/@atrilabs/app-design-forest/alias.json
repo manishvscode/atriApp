@@ -1,0 +1,23 @@
+{
+  "Rating": 4,
+  "VerticalMenu": 1,
+  "UnorderedList": 1,
+  "Testimonial": 3,
+  "Table": 1,
+  "Div": 365,
+  "Flex": 228,
+  "Icon": 17,
+  "Image": 163,
+  "Link": 99,
+  "TextBox": 324,
+  "Button": 17,
+  "Step": 3,
+  "Carousel": 2,
+  "Slider": 1,
+  "Cascader": 2,
+  "Menu": 3,
+  "Overlay": 3,
+  "Form": 12,
+  "TreemapChart": 1,
+  "Input": 1
+}
